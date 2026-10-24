@@ -1,4 +1,4 @@
----
+f---
 id: welcome
 title: Welcome
 hide_table_of_contents: true
